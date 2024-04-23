@@ -1,0 +1,5 @@
+[(Team 11) D2_ Requirements Specification Document.docx (1).pdf](https://github.com/EmmaUde16/coscCmtClub/files/15083894/Team.11.D2_.Requirements.Specification.Document.docx.1.pdf)
+[(Team 11) D4_ Detailed Design (1).pdf](https://github.com/EmmaUde16/coscCmtClub/files/15083893/Team.11.D4_.Detailed.Design.1.pdf)
+[(Team 11) D6_ Meeting Logs (1).pdf](https://github.com/EmmaUde16/coscCmtClub/files/15083892/Team.11.D6_.Meeting.Logs.1.pdf)
+[(Team 11) D5_ Implementation (1).pdf](https://github.com/EmmaUde16/coscCmtClub/files/15083891/Team.11.D5_.Implementation.1.pdf)
+[(Team 11) D3_ Architecture and User Interface Design Document.docx (1).pdf](https://github.com/EmmaUde16/coscCmtClub/files/15083890/Team.11.D3_.Architecture.and.User.Interface.Design.Document.docx.1.pdf)
